@@ -1,0 +1,22 @@
+sudo apt-get update
+
+sudo apt-get install libhdf5-dev -y
+sudo apt-get install libhdf5-serial-dev –y
+sudo apt-get install libatlas-base-dev –y
+sudo apt-get install libjasper-dev -y
+sudo apt-get install libqtgui4 –y
+sudo apt-get install libqt4-test –y
+
+pip3 install opencv-contrib-python==4.1.0.25
+
+pip3 install imutils
+
+sudo pip3 install https://github.com/lhelontra/tensorflow-on-arm/releases/download/v2.1.0/tensorflow-2.1.0-cp37-none-linux_armv7l.whl
+
+pip3 install sklearn
+
+label="Mask on. Thank you"
+            color=(0,255,0)
+       else:
+           label="no mask detected"
+           color=(255,0,0
