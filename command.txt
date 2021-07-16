@@ -15,8 +15,4 @@ sudo pip3 install https://github.com/lhelontra/tensorflow-on-arm/releases/downlo
 
 pip3 install sklearn
 
-label="Mask on. Thank you"
-            color=(0,255,0)
-       else:
-           label="no mask detected"
-           color=(255,0,0
+git clone https://github.com/lilritwik23/Maskdetectorusingrpi.git
